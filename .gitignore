@@ -1,0 +1,25 @@
+# Simulator output
+*.fsdb
+*.vcd
+*.vpd
+*.log
+*.key
+*.history
+
+# Synthesis / APR generated databases and physical outputs
+*.enc
+*.spef
+*.sdf
+*.gds
+*.def
+*.lef
+*.lib
+*.db
+*.rpt
+
+# Local tool folders
+INCA_libs/
+simv
+simv.daidir/
+csrc/
+ucli.key

@@ -1,0 +1,25 @@
+Public synthesis summary for FP_MUL 0.5 ns target
+=================================================
+
+This file is a sanitized summary of the private synthesis report.
+Technology library names, operating-corner names, and detailed
+library-specific paths were removed for public release.
+
+Timing
+------
+Target clock period : 0.5 ns
+Worst slack         : +2 ps
+Cost group          : CLK
+Critical endpoint   : rounded_mantissa_reg_reg[41]/D
+
+Area
+----
+Cell count : 19542
+Cell area  : 8538.981
+Net area   : 4084.792
+Total area : 12623.773
+
+Synthesis design-rule checks
+----------------------------
+Max transition  : no violations in the private report
+Max capacitance : no violations in the private report

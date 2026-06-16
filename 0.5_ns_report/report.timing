@@ -1,0 +1,16 @@
+Public timing summary for FP_MUL 0.5 ns target
+==============================================
+
+This is a sanitized timing summary. The private report contained
+library-specific cell names, delay/load values, operating corners, and a full
+critical path through the mapped standard-cell netlist. Those details were
+removed for public release.
+
+Target clock period : 0.5 ns
+Timing slack        : +2 ps
+Cost group          : CLK
+Start point         : shift_amt_reg_reg[1]/CP
+End point           : rounded_mantissa_reg_reg[41]/D
+
+The full private timing path is intentionally not included because it exposes
+confidential standard-cell library and process-characterization details.

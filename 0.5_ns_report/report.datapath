@@ -1,0 +1,13 @@
+Public datapath summary for FP_MUL 0.5 ns target
+================================================
+
+This is a sanitized datapath report. The private report header identified the
+technology library and operating corner, so that information was removed.
+
+Type              Cell area    Percentage
+-----------------------------------------
+datapath modules      0.00          0.00
+external muxes        0.00          0.00
+others             8538.98        100.00
+-----------------------------------------
+total              8538.98        100.00

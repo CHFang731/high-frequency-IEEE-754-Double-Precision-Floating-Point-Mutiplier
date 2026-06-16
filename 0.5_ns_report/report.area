@@ -1,0 +1,11 @@
+Public area summary for FP_MUL 0.5 ns target
+============================================
+
+This is a sanitized area summary. The original report header identified the
+private technology library and operating corner, so that header was removed.
+
+Instance : FP_MUL
+Cell count : 19542
+Cell area  : 8538.981
+Net area   : 4084.792
+Total area : 12623.773
