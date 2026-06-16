@@ -39,6 +39,12 @@ This public version focuses on the 0.5 ns target clock implementation.
 - Cell count: 19542
 - Total area: 12623.773
 
+## Implementation Result Snapshots
+
+| APR Result Browser | IR Drop |
+| --- | --- |
+| ![APR result browser](assets/results/result_browser.png) | ![IR drop map](assets/results/IR_drop.png) |
+
 ## Confidentiality Notice
 
 This repository intentionally does not publish confidential process collateral
