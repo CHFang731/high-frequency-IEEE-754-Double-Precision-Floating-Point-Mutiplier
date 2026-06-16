@@ -1,7 +1,7 @@
 # DIC Final Project: FP_MUL
 
-This repository contains the public 0.5 ns(2GHz) version of my Digital IC Design
-final project. The project implements and verifies a IEEE-754 double-precision
+This repository contains the public 0.5 ns (2 GHz) version of my Digital IC Design
+final project. The project implements and verifies an IEEE-754 double-precision
 floating-point multiplier (`FP_MUL`) and documents the synthesis/APR flow used
 to target a high-frequency ASIC implementation.
 
